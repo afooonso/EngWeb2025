@@ -1,6 +1,5 @@
 # TPC2: 
-**Date:** [Date]
-
+**Date:**
 ## Author  
 **Student Number:** A104537  
 **Name:** Afonso Gonçalves Pedreira  
