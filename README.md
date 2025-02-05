@@ -1,7 +1,5 @@
 # EngWeb2025
 
-## Data
-2025-02-05
 
 ![Picture](https://avatars.githubusercontent.com/u/95723167?v=4)
 
@@ -11,10 +9,11 @@
 **Curso:** Licenciatura em Engenharia Informática  
 **Ano Letivo:** 2024/2025
 
+## Data
+05-02-2025
+
 ## UC
 Engenharia Web
-
-
 
 ## Resumo
 
