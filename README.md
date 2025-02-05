@@ -1,22 +1,20 @@
-# EngWeb2025
+# EngWeb2025  
 
+![Picture](https://avatars.githubusercontent.com/u/95723167?v=4)  
 
-![Picture](https://avatars.githubusercontent.com/u/95723167?v=4)
+## Author  
+**Name:** Afonso Gonçalves Pedreira  
+**Student Number:** A104537  
+**Course:** Software Engineering
+**Academic Year:** 2024/2025  
 
-## Autor
-**Nome:** Afonso Gonçalves Pedreira
-**Número de Aluno:** A104537  
-**Curso:** Licenciatura em Engenharia Informática  
-**Ano Letivo:** 2024/2025
+## Date  
+05-02-2025  
 
-## Data
-05-02-2025
+## UC 
+Web Engineering  
 
-## UC
-Engenharia Web
+## Summary  
+This repository was created to document the practical assignments for the Web Engineering (EW2025) class. Throughout the semester, I will develop various practical assignments (TPCs), applying the concepts and techniques learned in class to build complete web solutions using modern front-end and back-end technologies.  
 
-## Resumo
-
-Este repositório foi criado com o objetivo de documentar os trabalhos práticos da disciplina de Engenharia Web (EW2025). Ao longo do semestre, irei desenvolver diversos trabalhos práticos (TPCs), aplicando os conceitos e as técnicas adquiridas nas aulas, com o intuito de construir soluções web completas, utilizando tecnologias modernas de front-end e back-end.
-
-Cada TPC encontra-se na sua própria pasta, contendo o código-fonte desenvolvido, os ficheiros auxiliares necessários e um `README.md` que descreve em detalhe o trabalho realizado. 
+Each TPC is in its own folder, containing the developed source code, necessary auxiliary files, and a `README.md` file that provides a detailed description of the work done.  
