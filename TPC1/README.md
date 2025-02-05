@@ -1,5 +1,5 @@
 # TPC1: 
-**Date:** [Date]
+**Date:**
 
 ## Author  
 **Student Number:** A104537  
