@@ -4,7 +4,7 @@
 ![Picture](https://avatars.githubusercontent.com/u/95723167?v=4)
 
 ## Autor
-**Nome:** Afonso Gonçalves Pedreira  
+**Nome:** Afonso Gonçalves Pedreira  a
 **Número de Aluno:** A104537  
 **Curso:** Licenciatura em Engenharia Informática  
 **Ano Letivo:** 2024/2025
