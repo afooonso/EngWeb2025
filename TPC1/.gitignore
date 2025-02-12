@@ -4,6 +4,9 @@ node_modules/
 # Ignore package-lock.json file
 package-lock.json
 
+# Ignore pacakge.json file
+package.json
+
 # Ignore other files that should not be included in the repository
 .DS_Store
 *.log
