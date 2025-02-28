@@ -1,0 +1,1 @@
+tpc -> pagina inicial, listagem de todos os alunos pagina do aluno onde vemos a informacao sem puder editar 
