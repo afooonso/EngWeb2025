@@ -147,6 +147,7 @@ var alunosServer = http.createServer((req, res) => {
                     const id = req.url.split("/")[3];
                     collectRequestBodyData(req, result => {
                         if (result){
+                            console.log(result)
                             axios.put("http://localhost:3000/alunos/" + id, result)
                             .then (resp => {
                                 res.writeHead(200, {'Content-Type': 'text/html; charset=utf-8'})
