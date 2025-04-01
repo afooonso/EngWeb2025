@@ -1,0 +1,21 @@
+# 1️⃣ Quantos livros têm a palavra "Love" no título
+db.books.countDocuments({ title: /Love/i })
+
+# 2️⃣ Títulos dos livros onde um dos autores tem o apelido "Austen", ordenados alfabeticamente
+db.books.find({ author: /Austen$/ }, { title: 1, _id: 0 }).sort({ title: 1 })
+
+# 3️⃣ Lista de autores ordenada alfabeticamente e sem repetições
+db.books.distinct("author").sort()
+
+# 4️⃣ Distribuição de livros por género (quantos livros tem cada género?)
+db.books.aggregate([
+  { $unwind: "$genres" },
+  { $group: { _id: "$genres", count: { $sum: 1 } } },
+  { $sort: { count: -1 } }
+])
+
+# 5️⃣ Títulos dos livros e respetivos ISBN, em ordem alfabética, onde Sirius Black é personagem
+db.books.find(
+  { characters: "Sirius Black" },
+  { title: 1, isbn: 1, _id: 0 }
+).sort({ title: 1 })
