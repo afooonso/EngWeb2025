@@ -135,14 +135,14 @@ mongoimport -d contratos -c contratos /tmp/contratos2024.json --jsonArray
 exit
 
 # API de Dados
-cd API_de_dados
+cd backend
 npm install
 npm start
 
 # Front-end
-cd ../Front-end
+cd ../frontend
 npm install
 npm start
 ```
 
-Depois visitar: [http://localhost:16001](http://localhost:16001)
+Entrar em: [http://localhost:16001](http://localhost:16001)
